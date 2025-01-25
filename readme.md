@@ -1,5 +1,5 @@
 
-# LibreChat Backup and Restore Scripts
+# LibreChat Backup, Restore and update Scripts
 
 A set of automated scripts to backup, restore and update local docker LibreChat deployments. These scripts are designed for consistent backups, updates, restores with minimal user intervention for Windows.
 
@@ -34,6 +34,7 @@ A set of automated scripts to backup, restore and update local docker LibreChat 
 ├── README.md              # This documentation file
 └── backups/               # Directory to store backup files (recommended)
 
+```
 
 ## Setup
 
